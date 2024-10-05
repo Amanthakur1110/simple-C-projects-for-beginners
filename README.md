@@ -24,7 +24,9 @@ Exam Paper System 📝: Manage and display exam papers and results.
 
 Reverse String 🔄: Reverse a given string.
 
-Linear two variable equation calculator : 📟 this is simple c program to solve linear equation in x and y return answer 
+Linear two variable equation calculator : 📟 this is simple c program to solve linear equation in x and y return answer !
+
+pascal triangle : draw a pascal triangle using Ncr math concept !
 
 Reverse Integer 🔄: Reverse a given integer.
 
